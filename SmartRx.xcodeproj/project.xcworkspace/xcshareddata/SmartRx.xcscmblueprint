@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4371",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++5195" : {
+
+    },
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++5195" : 0,
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "40F2EBED-9AE4-4825-9F4F-481CC3C4317E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++5195" : "..\/SVN-CB\/carebridge",
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : "Ios_Patient_September\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SmartRx",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SmartRx.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4371"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++5195"
+    }
+  ]
+}

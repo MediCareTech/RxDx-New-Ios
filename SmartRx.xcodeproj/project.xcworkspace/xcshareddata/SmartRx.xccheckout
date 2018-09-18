@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40F2EBED-9AE4-4825-9F4F-481CC3C4317E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53fd8307-64d9-470f-9539-774fcfbda258++4371</key>
+		<string>https://subversion.assembla.com/svn/dapps/trunk/Ios_Patient_September</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SmartRx.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53fd8307-64d9-470f-9539-774fcfbda258++4371</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>53fd8307-64d9-470f-9539-774fcfbda258++4371</key>
+		<string>https://subversion.assembla.com/svn/dapps</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/dapps/trunk/Ios_Patient_September/SmartRx.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53fd8307-64d9-470f-9539-774fcfbda258++4371</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53fd8307-64d9-470f-9539-774fcfbda258++4371</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ios_Patient_September</string>
+		</dict>
+	</array>
+</dict>
+</plist>
