@@ -76,5 +76,6 @@
 
 -(void)setNavigationTitle:(NSString *)title controler:(UIViewController *)controller;
 
+- (BOOL)validateEmailWithString:(NSString*)email;
 
 @end

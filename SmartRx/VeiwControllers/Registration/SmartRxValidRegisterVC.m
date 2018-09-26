@@ -26,6 +26,8 @@
     CGSize viewSize;
     UIView *pickerAction;
     UIToolbar *toolbarPicker;
+    NSString *loginType;
+
 }
 
 @end
@@ -88,9 +90,9 @@
     self.navigationItem.hidesBackButton=YES;
     self.txtName.autocorrectionType = UITextAutocorrectionTypeNo;
     self.txtMobile.autocorrectionType = UITextAutocorrectionTypeNo;
+    self.txtMobile.keyboardType = UIKeyboardTypeEmailAddress;
+    self.txtMobile.placeholder = @"Mobile No / Email";
     viewSize=[[UIScreen mainScreen]bounds].size;
-
-    
     pickerAction = [[UIView alloc] initWithFrame:CGRectMake ( 0.0, 0.0, 460.0, 1248.0)];
     pickerAction.hidden = YES;
     UIImageView *backgroundView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"transparent"]];
@@ -126,7 +128,6 @@
     self.txtName.text = nil;
     self.txtName.placeholder = @"Name";
     self.txtMobile.text = nil;
-    self.txtMobile.placeholder = @"Mobile Number";
     self.txtDob.text = nil;
     [self navigationBackButton];
     self.navigationItem.leftBarButtonItem = nil;
@@ -307,20 +308,27 @@
 //    NSLog(@"UDIDDDDDD----->   %@",[[[UIDevice currentDevice] identifierForVendor] UUIDString]);
     [self.txtMobile resignFirstResponder];
     [self.txtCode resignFirstResponder];
-    
+    BOOL containsLetter = NSNotFound != [self.txtMobile.text rangeOfCharacterFromSet:NSCharacterSet.letterCharacterSet].location;
+
     if ([self.txtMobile.text length] > 0 && [self.txtName.text length] > 0)
     {
-        if ([self.txtMobile.text length] <10)
-        {
-            //[self customAlertView:@"Phone number can not be less than 10 digits"];
-            [self customAlertView:@"" Message:@"Phone number cannot be less than 10 digits" tag:0];
-        }else if (self.txtDob.text.length <= 0){
+//        if ([self.txtMobile.text length] <10)
+//        {
+//            //[self customAlertView:@"Phone number can not be less than 10 digits"];
+//            [self customAlertView:@"" Message:@"Phone number cannot be less than 10 digits" tag:0];
+//        }
+        if (self.txtDob.text.length <= 0){
             [self customAlertView:@"Date of birth should not be empty" Message:@"" tag:0];
         }
         else if (![self.closeViewContainer isHidden])
         {
             if (!self.txtCode.text || [self.txtCode.text length] <= 0)
                 [self customAlertView:@"" Message:@"Customer code cannot be empty" tag:0];
+            
+            else if (containsLetter)
+                [self emailValidation];
+            else if (!containsLetter)
+                [self mobileValidation];
             else
             {
                 NetworkChecking *networkAvailabilityCheck=[NetworkChecking new];
@@ -335,6 +343,10 @@
             }
                 
         }
+        else if (containsLetter)
+            [self emailValidation];
+        else if (!containsLetter)
+            [self mobileValidation];
         else{
             NetworkChecking *networkAvailabilityCheck=[NetworkChecking new];
             if ([networkAvailabilityCheck reachable])
@@ -477,7 +489,28 @@
     pickerAction.hidden = YES;
     return YES;
 }
-
+-(void)emailValidation{
+    loginType = @"Email";
+    if (![[SmartRxCommonClass sharedManager] validateEmailWithString:self.txtMobile.text])
+        [self customAlertView:@"" Message:@"Please enter valid email id." tag:0];
+    else
+        [self callRegisterApi];
+}
+-(void)mobileValidation{
+    loginType = @"Mobile";
+    if (self.txtMobile.text.length != 10) {
+        [self customAlertView:@"" Message:@"Mobile number cannot be less than 10 digits" tag:0];
+    } else{
+        [self callRegisterApi];
+    }
+}
+-(void)callRegisterApi{
+    NetworkChecking *networkAvailabilityCheck=[NetworkChecking new];
+    if ([networkAvailabilityCheck reachable])
+        [self makeRequestForUserRegister];
+    else
+        [self customAlertView:@"" Message:@"Network not available" tag:0];
+}
 #pragma mark - Segue Delegate
 -(void)textFieldDidBeginEditing:(UITextField *)textField
 {

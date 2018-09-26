@@ -24,6 +24,7 @@
 #import "SmartRxBookedServicesController.h"
 #import "SmartRxBookServicesController.h"
 #import "UserDetails.h"
+#import "SmartRxAboutUsVC.h"
 
 #define kLessThan4Inch 560
 #define kLogoutAlertTag 800
@@ -117,7 +118,7 @@
     self.collectionView.dataSource = self;
     self.collectionView.delegate = self;
     dictResponse = [[NSMutableDictionary alloc] init];
-    _arrCallCareTeam = [[NSMutableArray alloc] initWithArray:@[@"Emergency",@"Phone Call", @"Send Message",]];
+    _arrCallCareTeam = [[NSMutableArray alloc] initWithArray:@[@"Emergency",@"Phone Call",]];
     arrCallCareImages=[[NSArray alloc]initWithObjects:@"emergency_new.png",@"phone_CALL.png",@"emergency_message.png", nil];
     /* uncomment this block to use subclassed cells */
     [self.collectionView registerClass:[CVCell class] forCellWithReuseIdentifier:@"cvCell"];
@@ -1485,8 +1486,11 @@
         [self appointmentsBtnClicked:@"data"];
     else if ([cell.titleLbl.text isEqualToString:@"Records"])
         [self myRecordsBtnClicked:nil];
-    else if ([cell.titleLbl.text isEqualToString:@"Info & Feedback"])
-        [self hsBtnClicked:nil];
+    else if ([cell.titleLbl.text isEqualToString:@"Info & Feedback"]){
+        SmartRxAboutUsVC *controller = [self.storyboard instantiateViewControllerWithIdentifier:@"aboutVc"];
+        [self.navigationController pushViewController:controller animated:YES];
+        //[self hsBtnClicked:nil];
+    }
     else if ([cell.titleLbl.text isEqualToString:@"Connect"])
         [self connectBtnClicked:nil];
 }

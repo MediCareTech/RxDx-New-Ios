@@ -215,11 +215,6 @@
 		CD1370161B00E54700145106 /* SmartRxAccountPickerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CD1370151B00E54700145106 /* SmartRxAccountPickerVC.m */; };
 		CD1370181B00EBA300145106 /* smartIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1370171B00EBA300145106 /* smartIcon@2x.png */; };
 		CD13CED32011FD4A008BEB85 /* libCorePlot-CocoaTouch.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD13CED22011FD4A008BEB85 /* libCorePlot-CocoaTouch.a */; };
-		CD159B7421424E8900305521 /* WebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B6D21424E8800305521 /* WebViewJavascriptBridge.m */; };
-		CD159B7521424E8900305521 /* WebViewJavascriptBridge_JS.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B6F21424E8800305521 /* WebViewJavascriptBridge_JS.m */; };
-		CD159B7621424E8900305521 /* WebViewJavascriptBridgeBase.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B7121424E8800305521 /* WebViewJavascriptBridgeBase.m */; };
-		CD159B7721424E8900305521 /* WKWebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B7321424E8800305521 /* WKWebViewJavascriptBridge.m */; };
-		CD159B7A214250AA00305521 /* SmartRxMessageTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B79214250A900305521 /* SmartRxMessageTVC.m */; };
 		CD159B832142552B00305521 /* TimeSlotsResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B7B2142551100305521 /* TimeSlotsResponseModel.m */; };
 		CD159B842142552B00305521 /* LocationResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B7E2142551F00305521 /* LocationResponseModel.m */; };
 		CD159B852142552B00305521 /* DepartmentResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CD159B802142552400305521 /* DepartmentResponseModel.m */; };
@@ -255,6 +250,11 @@
 		CD2915E219EEAB7300F5DF08 /* doctor_dp_bg@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD2915E119EEAB7300F5DF08 /* doctor_dp_bg@2x.jpg */; };
 		CD2B7B1120C162350094E969 /* SmartRxMapVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CD2B7B1020C162340094E969 /* SmartRxMapVC.m */; };
 		CD30A6AA214285BD000760A3 /* UserDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6A8214285B8000760A3 /* UserDetails.m */; };
+		CD30A6F42152174F000760A3 /* WebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6ED2152174F000760A3 /* WebViewJavascriptBridge.m */; };
+		CD30A6F52152174F000760A3 /* WebViewJavascriptBridge_JS.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6EF2152174F000760A3 /* WebViewJavascriptBridge_JS.m */; };
+		CD30A6F62152174F000760A3 /* WebViewJavascriptBridgeBase.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6F12152174F000760A3 /* WebViewJavascriptBridgeBase.m */; };
+		CD30A6F72152174F000760A3 /* WKWebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6F32152174F000760A3 /* WKWebViewJavascriptBridge.m */; };
+		CD30A6FD2152186F000760A3 /* SmartRxMessageTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CD30A6FC2152186F000760A3 /* SmartRxMessageTVC.m */; };
 		CD33E4FC1EEE603A006BFFD5 /* DoctorAddressResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CD33E4FB1EEE603A006BFFD5 /* DoctorAddressResponseModel.m */; };
 		CD33E4FF1EEE9B36006BFFD5 /* SmartRxBookServicesController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD33E4FE1EEE9B36006BFFD5 /* SmartRxBookServicesController.m */; };
 		CD33E5031EEE9BAA006BFFD5 /* SmartRxBookServiceCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CD33E5021EEE9BAA006BFFD5 /* SmartRxBookServiceCell.m */; };
@@ -1327,16 +1327,6 @@
 		CD13CF1F2011FE1E008BEB85 /* NSCoderExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSCoderExtensions.h; sourceTree = "<group>"; };
 		CD13CF202011FE1E008BEB85 /* NSDecimalNumberExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDecimalNumberExtensions.h; sourceTree = "<group>"; };
 		CD13CF212011FE1E008BEB85 /* NSNumberExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSNumberExtensions.h; sourceTree = "<group>"; };
-		CD159B6C21424E8800305521 /* WebViewJavascriptBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridge.h; sourceTree = "<group>"; };
-		CD159B6D21424E8800305521 /* WebViewJavascriptBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridge.m; sourceTree = "<group>"; };
-		CD159B6E21424E8800305521 /* WebViewJavascriptBridge_JS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridge_JS.h; sourceTree = "<group>"; };
-		CD159B6F21424E8800305521 /* WebViewJavascriptBridge_JS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridge_JS.m; sourceTree = "<group>"; };
-		CD159B7021424E8800305521 /* WebViewJavascriptBridgeBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridgeBase.h; sourceTree = "<group>"; };
-		CD159B7121424E8800305521 /* WebViewJavascriptBridgeBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridgeBase.m; sourceTree = "<group>"; };
-		CD159B7221424E8800305521 /* WKWebViewJavascriptBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKWebViewJavascriptBridge.h; sourceTree = "<group>"; };
-		CD159B7321424E8800305521 /* WKWebViewJavascriptBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKWebViewJavascriptBridge.m; sourceTree = "<group>"; };
-		CD159B78214250A800305521 /* SmartRxMessageTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SmartRxMessageTVC.h; path = "../../../../../../../Downloads/Ios_Patient_September 2/SmartRx/VeiwControllers/Messages/SmartRxMessageTVC.h"; sourceTree = "<group>"; };
-		CD159B79214250A900305521 /* SmartRxMessageTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SmartRxMessageTVC.m; path = "../../../../../../../Downloads/Ios_Patient_September 2/SmartRx/VeiwControllers/Messages/SmartRxMessageTVC.m"; sourceTree = "<group>"; };
 		CD159B7B2142551100305521 /* TimeSlotsResponseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimeSlotsResponseModel.m; sourceTree = "<group>"; };
 		CD159B7C2142551400305521 /* DepartmentResponseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepartmentResponseModel.h; sourceTree = "<group>"; };
 		CD159B7D2142551A00305521 /* DoctorsResponseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoctorsResponseModel.h; sourceTree = "<group>"; };
@@ -1405,6 +1395,16 @@
 		CD2B7B1020C162340094E969 /* SmartRxMapVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SmartRxMapVC.m; sourceTree = "<group>"; };
 		CD30A6A8214285B8000760A3 /* UserDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserDetails.m; sourceTree = "<group>"; };
 		CD30A6A9214285BC000760A3 /* UserDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserDetails.h; sourceTree = "<group>"; };
+		CD30A6EC2152174F000760A3 /* WebViewJavascriptBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridge.h; sourceTree = "<group>"; };
+		CD30A6ED2152174F000760A3 /* WebViewJavascriptBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridge.m; sourceTree = "<group>"; };
+		CD30A6EE2152174F000760A3 /* WebViewJavascriptBridge_JS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridge_JS.h; sourceTree = "<group>"; };
+		CD30A6EF2152174F000760A3 /* WebViewJavascriptBridge_JS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridge_JS.m; sourceTree = "<group>"; };
+		CD30A6F02152174F000760A3 /* WebViewJavascriptBridgeBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewJavascriptBridgeBase.h; sourceTree = "<group>"; };
+		CD30A6F12152174F000760A3 /* WebViewJavascriptBridgeBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewJavascriptBridgeBase.m; sourceTree = "<group>"; };
+		CD30A6F22152174F000760A3 /* WKWebViewJavascriptBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKWebViewJavascriptBridge.h; sourceTree = "<group>"; };
+		CD30A6F32152174F000760A3 /* WKWebViewJavascriptBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKWebViewJavascriptBridge.m; sourceTree = "<group>"; };
+		CD30A6FB2152186E000760A3 /* SmartRxMessageTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SmartRxMessageTVC.h; path = "../../../../../Downloads/Ios_Patient_September 2/SmartRx/VeiwControllers/Messages/SmartRxMessageTVC.h"; sourceTree = "<group>"; };
+		CD30A6FC2152186F000760A3 /* SmartRxMessageTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SmartRxMessageTVC.m; path = "../../../../../Downloads/Ios_Patient_September 2/SmartRx/VeiwControllers/Messages/SmartRxMessageTVC.m"; sourceTree = "<group>"; };
 		CD33E4FA1EEE603A006BFFD5 /* DoctorAddressResponseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoctorAddressResponseModel.h; sourceTree = "<group>"; };
 		CD33E4FB1EEE603A006BFFD5 /* DoctorAddressResponseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DoctorAddressResponseModel.m; sourceTree = "<group>"; };
 		CD33E4FD1EEE9B36006BFFD5 /* SmartRxBookServicesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SmartRxBookServicesController.h; sourceTree = "<group>"; };
@@ -2677,8 +2677,8 @@
 		0534EA5519062D5B001D840E /* VeiwControllers */ = {
 			isa = PBXGroup;
 			children = (
+				CD30A6EB2152174F000760A3 /* WebViewJavascriptBridge */,
 				CD159B8F21426AB600305521 /* Utilities */,
-				CD159B6B21424E8800305521 /* WebViewJavascriptBridge */,
 				CDDFE4A42074D85D00947072 /* Fitbit */,
 				CD6C135A201F1CAA00114F03 /* EHR */,
 				CD85008A1EF11CAC00A28348 /* ServiceManager */,
@@ -3326,26 +3326,10 @@
 		CD1302732122CCA30050B326 /* CreateCell */ = {
 			isa = PBXGroup;
 			children = (
-				CD159B78214250A800305521 /* SmartRxMessageTVC.h */,
-				CD159B79214250A900305521 /* SmartRxMessageTVC.m */,
+				CD30A6FB2152186E000760A3 /* SmartRxMessageTVC.h */,
+				CD30A6FC2152186F000760A3 /* SmartRxMessageTVC.m */,
 			);
 			path = CreateCell;
-			sourceTree = "<group>";
-		};
-		CD159B6B21424E8800305521 /* WebViewJavascriptBridge */ = {
-			isa = PBXGroup;
-			children = (
-				CD159B6C21424E8800305521 /* WebViewJavascriptBridge.h */,
-				CD159B6D21424E8800305521 /* WebViewJavascriptBridge.m */,
-				CD159B6E21424E8800305521 /* WebViewJavascriptBridge_JS.h */,
-				CD159B6F21424E8800305521 /* WebViewJavascriptBridge_JS.m */,
-				CD159B7021424E8800305521 /* WebViewJavascriptBridgeBase.h */,
-				CD159B7121424E8800305521 /* WebViewJavascriptBridgeBase.m */,
-				CD159B7221424E8800305521 /* WKWebViewJavascriptBridge.h */,
-				CD159B7321424E8800305521 /* WKWebViewJavascriptBridge.m */,
-			);
-			name = WebViewJavascriptBridge;
-			path = "../../../../../Downloads/WebViewJavascriptBridge-master 2/WebViewJavascriptBridge";
 			sourceTree = "<group>";
 		};
 		CD159B8F21426AB600305521 /* Utilities */ = {
@@ -3396,6 +3380,22 @@
 				CD1C324F20AD5A7C00972F15 /* GetManagedCarePlanServiceDetailsCell.m */,
 			);
 			path = CustomCell;
+			sourceTree = "<group>";
+		};
+		CD30A6EB2152174F000760A3 /* WebViewJavascriptBridge */ = {
+			isa = PBXGroup;
+			children = (
+				CD30A6EC2152174F000760A3 /* WebViewJavascriptBridge.h */,
+				CD30A6ED2152174F000760A3 /* WebViewJavascriptBridge.m */,
+				CD30A6EE2152174F000760A3 /* WebViewJavascriptBridge_JS.h */,
+				CD30A6EF2152174F000760A3 /* WebViewJavascriptBridge_JS.m */,
+				CD30A6F02152174F000760A3 /* WebViewJavascriptBridgeBase.h */,
+				CD30A6F12152174F000760A3 /* WebViewJavascriptBridgeBase.m */,
+				CD30A6F22152174F000760A3 /* WKWebViewJavascriptBridge.h */,
+				CD30A6F32152174F000760A3 /* WKWebViewJavascriptBridge.m */,
+			);
+			name = WebViewJavascriptBridge;
+			path = "../../../Downloads/WebViewJavascriptBridge-master 2/WebViewJavascriptBridge";
 			sourceTree = "<group>";
 		};
 		CD33E5001EEE9B41006BFFD5 /* NewServices */ = {
@@ -5771,7 +5771,6 @@
 				CD4902DD203D64D20010A9A7 /* JSQMessagesTypingIndicatorFooterView.m in Sources */,
 				CDD3A79C1B8DE64500D6AD78 /* SWCellScrollView.m in Sources */,
 				CD50A91B1C884A580064E95D /* CTSPrepaidPayResp.m in Sources */,
-				CD159B7421424E8900305521 /* WebViewJavascriptBridge.m in Sources */,
 				CD50A90D1C884A580064E95D /* CTSResponse.m in Sources */,
 				CD50A9DB1C884A580064E95D /* WebViewViewController.m in Sources */,
 				0534EA6619063B45001D840E /* SmartRxMessageViewController.m in Sources */,
@@ -5825,7 +5824,6 @@
 				CD50A90E1C884A580064E95D /* CitrusCashRes.m in Sources */,
 				CD50A9231C884A580064E95D /* CTSProfilePrepaidRes.m in Sources */,
 				CDD4692D1A95E10600132039 /* SmartRxeConsultCell.m in Sources */,
-				CD159B7521424E8900305521 /* WebViewJavascriptBridge_JS.m in Sources */,
 				CD1AB03220244288005D4255 /* BookedAssessmentsResponseModel.m in Sources */,
 				0534EA78190685E8001D840E /* SmartRxLoginViewController.m in Sources */,
 				CD1AB03B20245D7A005D4255 /* AssessmentsQuestionsCell.m in Sources */,
@@ -5880,6 +5878,7 @@
 				058DB33E19682D7F0019FA5B /* AFURLResponseSerialization.m in Sources */,
 				CD50A9481C884A580064E95D /* JSONValueTransformer.m in Sources */,
 				CD4902C2203D64D20010A9A7 /* JSQMessagesBubblesSizeCalculator.m in Sources */,
+				CD30A6F52152174F000760A3 /* WebViewJavascriptBridge_JS.m in Sources */,
 				CD666E481C5F61AE00F9981A /* NSString+HTML.m in Sources */,
 				CDE527801A9D9F0100806CA8 /* SmartRxeConsultReportCell.m in Sources */,
 				05FC341C191D081F006732F1 /* SmartRxHsDashBoardVC.m in Sources */,
@@ -5927,6 +5926,7 @@
 				058DB33B19682D7F0019FA5B /* AFSecurityPolicy.m in Sources */,
 				CD50A92B1C884A580064E95D /* CTSDataCache.m in Sources */,
 				CDDFE4AE2074EF9700947072 /* SettingsCell.m in Sources */,
+				CD30A6F42152174F000760A3 /* WebViewJavascriptBridge.m in Sources */,
 				05689DD21973E92B0046B07B /* SmartRxDataTVC.m in Sources */,
 				CD8500D31EF1467900A28348 /* SmartRxMyLocationVC.m in Sources */,
 				CD50A9221C884A580064E95D /* CTSProfilePaymentRes.m in Sources */,
@@ -5959,7 +5959,6 @@
 				CD34D4F31EF8F23300D9CC0D /* CartRequestModel.m in Sources */,
 				CD666E4C1C5F624100F9981A /* GTMNSString+HTML.m in Sources */,
 				CD50A8FF1C884A580064E95D /* CTSNewUserProfileReq.m in Sources */,
-				CD159B7621424E8900305521 /* WebViewJavascriptBridgeBase.m in Sources */,
 				CD50A8E81C884A580064E95D /* CTSUser.m in Sources */,
 				0577587119544BD800061090 /* AnswerDetailsTVC.m in Sources */,
 				CD4902C4203D64D20010A9A7 /* JSQMessagesCollectionViewFlowLayoutInvalidationContext.m in Sources */,
@@ -5986,6 +5985,7 @@
 				CDD3A79F1B8DE64500D6AD78 /* SWUtilityButtonTapGestureRecognizer.m in Sources */,
 				CD6C1376201F1CCA00114F03 /* SmartRxAddHealthIssuesVC.m in Sources */,
 				CD6C136F201F1CCA00114F03 /* SmartRxEHRDetailsVC.m in Sources */,
+				CD30A6FD2152186F000760A3 /* SmartRxMessageTVC.m in Sources */,
 				CD1C323E20AAF9E000972F15 /* MembershipTypesResponseModel.m in Sources */,
 				CDF5C6C31AA74682006CD251 /* SmartRxVideoConference.m in Sources */,
 				CDD80C5F1BD4DC2700C064C0 /* SmartRxeServicesVC.m in Sources */,
@@ -6013,6 +6013,7 @@
 				CD4902C5203D64D20010A9A7 /* JSQMessagesCollectionViewLayoutAttributes.m in Sources */,
 				CDD453011AC2EA980007FBFD /* SmartRxEconsultSpecialityVC.m in Sources */,
 				CD4902B9203D64D20010A9A7 /* JSQMessagesViewController.m in Sources */,
+				CD30A6F62152174F000760A3 /* WebViewJavascriptBridgeBase.m in Sources */,
 				CDAB78EC19C0183700B89C48 /* SmartRxAddPhrUIPicker.m in Sources */,
 				CDC023F01EEFDA74009938EC /* SmartRxServiceDetailController.m in Sources */,
 				058DB33919682D7F0019FA5B /* AFHTTPSessionManager.m in Sources */,
@@ -6088,11 +6089,11 @@
 				CD9010081C0EEDE400CC68DC /* SmartRx.xcdatamodeld in Sources */,
 				CD1C325020AD5A7C00972F15 /* GetManagedCarePlanServiceDetailsCell.m in Sources */,
 				CDE1A0C91A8B3EF9005C5843 /* DSLCalendarRange.m in Sources */,
-				CD159B7A214250AA00305521 /* SmartRxMessageTVC.m in Sources */,
 				CD50A9401C884A580064E95D /* JSONModelArray.m in Sources */,
 				CD50A94B1C884A580064E95D /* NSObject+logProperties.m in Sources */,
 				05FC3420191D09B3006732F1 /* SmartRxConnectDBVC.m in Sources */,
 				CD4902C6203D64D20010A9A7 /* JSQAudioMediaItem.m in Sources */,
+				CD30A6F72152174F000760A3 /* WKWebViewJavascriptBridge.m in Sources */,
 				CD4902D7203D64D20010A9A7 /* JSQMessagesLabel.m in Sources */,
 				05238AE019079F12003050A5 /* SmartRxServicesVC.m in Sources */,
 				CDE1A0C31A8B3EF9005C5843 /* DSLCalendarDayCalloutView.m in Sources */,
@@ -6125,7 +6126,6 @@
 				CD50A8EC1C884A580064E95D /* CTSCashoutToBankRes.m in Sources */,
 				CD405BD41A83A1B600701A85 /* SmartRxAboutUsVC.m in Sources */,
 				CD159B852142552B00305521 /* DepartmentResponseModel.m in Sources */,
-				CD159B7721424E8900305521 /* WKWebViewJavascriptBridge.m in Sources */,
 				CD33E4FC1EEE603A006BFFD5 /* DoctorAddressResponseModel.m in Sources */,
 				CD1C324420AC088200972F15 /* GetCarePlanDetailsCell.m in Sources */,
 				0534EA2D19062ADE001D840E /* main.m in Sources */,

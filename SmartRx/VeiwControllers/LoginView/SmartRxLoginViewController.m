@@ -24,6 +24,8 @@
     UIToolbar* numberToolbar;
     MBProgressHUD *HUD;
     BOOL enableMobileField;
+    NSString *loginType;
+
 }
 
 @end
@@ -65,7 +67,9 @@
     self.navigationItem.hidesBackButton = YES;
     [self navigationBackButton];
     self.txtPassword.secureTextEntry=YES;
-    
+    self.txtMobileNumber.placeholder = @"Mobile No / Email";
+    self.txtMobileNumber.keyboardType = UIKeyboardTypeEmailAddress;
+
     //[self numberKeyBoardReturn];
     
 	// Do any additional setup after loading the view.
@@ -352,20 +356,22 @@
 - (IBAction)loginClicked:(id)sender {
     
     [self hideKeyBoard:nil];
-    
+    BOOL containsLetter = NSNotFound != [self.txtMobileNumber.text rangeOfCharacterFromSet:NSCharacterSet.letterCharacterSet].location;
+
     if ([self.txtMobileNumber.text length] == 0)
     {
         [self customAlertView:@"Mobile number should not be empty." Message:@"" tag:0];
     }
     
-   else if ([self.txtMobileNumber.text length] < 10 )
-    {
-        [self customAlertView:@"Mobile number can not be less than 10 digits." Message:@"" tag:0];
-    }
+  
     else if([self.txtPassword.text length] == 0)
     {
         [self customAlertView:@"Password should not be empty." Message:@"" tag:0];
     }
+    else if (containsLetter)
+        [self emailValidation];
+    else if (!containsLetter)
+        [self mobileValidation];
     else
     {
         NetworkChecking *networkAvailabilityCheck=[NetworkChecking new];
@@ -407,6 +413,28 @@
 - (IBAction)continueAsGuest:(id)sender
 {
     [self performSegueWithIdentifier:@"loginSegue" sender:nil];
+}
+-(void)emailValidation{
+    loginType = @"Email";
+    if (![[SmartRxCommonClass sharedManager] validateEmailWithString:self.txtMobileNumber.text])
+        [self customAlertView:@"" Message:@"Please enter valid email id." tag:0];
+    else
+        [self callRegisterApi];
+}
+-(void)mobileValidation{
+    loginType = @"Mobile";
+    if (self.txtMobileNumber.text.length != 10) {
+        [self customAlertView:@"" Message:@"Mobile number cannot be less than 10 digits" tag:0];
+    } else{
+        [self callRegisterApi];
+    }
+}
+-(void)callRegisterApi{
+    NetworkChecking *networkAvailabilityCheck=[NetworkChecking new];
+    if ([networkAvailabilityCheck reachable])
+        [self makeLoginRequest:@""];
+    else
+        [self customAlertView:@"" Message:@"Network not available" tag:0];
 }
 #pragma mark - Text filed Delegates
 -(BOOL)textFieldShouldBeginEditing:(UITextField *)textField

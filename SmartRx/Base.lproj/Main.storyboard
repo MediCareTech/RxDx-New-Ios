@@ -10595,7 +10595,7 @@
         <!--About Us-->
         <scene sceneID="j77-6P-6hi">
             <objects>
-                <viewController id="m1f-33-OkE" customClass="SmartRxAboutUsVC" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="aboutVc" id="m1f-33-OkE" customClass="SmartRxAboutUsVC" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="c3l-TL-B6i">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

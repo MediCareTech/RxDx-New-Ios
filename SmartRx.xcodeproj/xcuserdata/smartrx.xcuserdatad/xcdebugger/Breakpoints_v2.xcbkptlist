@@ -874,11 +874,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.7836601"
+            timestampString = "559645705.5770611"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "248"
-            endingLineNumber = "248"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
             landmarkName = "-viewWillAppear:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1209,13 +1209,13 @@
                   symbolName = "__45-[SmartRxEditProfileVC makeRequestGetDoctors]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
-                  timestampString = "557229533.056546"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
+                  timestampString = "559030446.228826"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "474"
                   endingLineNumber = "474"
-                  offsetFromSymbolStart = "344">
+                  offsetFromSymbolStart = "342">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1224,13 +1224,13 @@
                   symbolName = "__45-[SmartRxEditProfileVC makeRequestGetDoctors]_block_invoke_2"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
-                  timestampString = "557229533.059263"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
+                  timestampString = "559030446.2320991"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "475"
                   endingLineNumber = "475"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "8">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1239,13 +1239,13 @@
                   symbolName = "__destroy_helper_block_.408"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
-                  timestampString = "557229533.061923"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/EditProfile/SmartRxEditProfileVC.m"
+                  timestampString = "559030446.234877"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "474"
                   endingLineNumber = "474"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1858,13 +1858,13 @@
                   symbolName = "-[SmartRxEnquiryVC uploadImage:]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
-                  timestampString = "557229533.11788"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
+                  timestampString = "559030446.287038"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "482"
                   endingLineNumber = "482"
-                  offsetFromSymbolStart = "440">
+                  offsetFromSymbolStart = "390">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1873,13 +1873,13 @@
                   symbolName = "__32-[SmartRxEnquiryVC uploadImage:]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
-                  timestampString = "557229533.1206681"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
+                  timestampString = "559030446.2904299"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "485"
                   endingLineNumber = "485"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "14">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1888,13 +1888,13 @@
                   symbolName = "__destroy_helper_block_.416"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
-                  timestampString = "557229533.123451"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/Enquiry/SmartRxEnquiryVC.m"
+                  timestampString = "559030446.293209"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "482"
                   endingLineNumber = "482"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2001,13 +2001,13 @@
                   symbolName = "-[SmartRxFeedbackVC uploadImage:]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
-                  timestampString = "557229533.181278"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
+                  timestampString = "559030446.318344"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "479"
                   endingLineNumber = "479"
-                  offsetFromSymbolStart = "440">
+                  offsetFromSymbolStart = "390">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2016,13 +2016,13 @@
                   symbolName = "__33-[SmartRxFeedbackVC uploadImage:]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
-                  timestampString = "557229533.1846451"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
+                  timestampString = "559030446.3211221"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "482"
                   endingLineNumber = "482"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "14">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2031,13 +2031,13 @@
                   symbolName = "__destroy_helper_block_.382"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
-                  timestampString = "557229533.187373"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/FeedBack/SmartRxFeedbackVC.m"
+                  timestampString = "559030446.323835"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "479"
                   endingLineNumber = "479"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3082,13 +3082,13 @@
                   symbolName = "-[SmartRxPaymentVC requestPaymentModes]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
-                  timestampString = "557229533.414369"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
+                  timestampString = "559030446.51056"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "574"
                   endingLineNumber = "574"
-                  offsetFromSymbolStart = "12">
+                  offsetFromSymbolStart = "6">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3097,23 +3097,23 @@
                   symbolName = "__39-[SmartRxPaymentVC requestPaymentModes]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
-                  timestampString = "557229533.417421"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
+                  timestampString = "559030446.513393"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "575"
-                  endingLineNumber = "575"
-                  offsetFromSymbolStart = "68">
+                  startingLineNumber = "574"
+                  endingLineNumber = "574"
+                  offsetFromSymbolStart = "8">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.455"
+                  symbolName = "__destroy_helper_block_.453"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
-                  timestampString = "557229533.4208699"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/Payment/SmartRxPaymentVC.m"
+                  timestampString = "559030446.516173"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "574"
@@ -3130,11 +3130,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.790967"
+            timestampString = "559645705.587536"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
             landmarkName = "-numberKeyBoardReturn"
             landmarkType = "7">
          </BreakpointContent>
@@ -3146,11 +3146,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.791065"
+            timestampString = "559645705.5878021"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "538"
-            endingLineNumber = "538"
+            startingLineNumber = "571"
+            endingLineNumber = "571"
             landmarkName = "-prepareForSegue:sender:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3162,11 +3162,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.791147"
+            timestampString = "559645705.5879591"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "568"
-            endingLineNumber = "568"
+            startingLineNumber = "601"
+            endingLineNumber = "601"
             landmarkName = "-alertView:clickedButtonAtIndex:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3178,11 +3178,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.791212"
+            timestampString = "559645705.588117"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "325"
-            endingLineNumber = "325"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
             landmarkName = "-validateBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3194,11 +3194,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.7912771"
+            timestampString = "559645705.588217"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "332"
-            endingLineNumber = "332"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
             landmarkName = "-validateBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3210,11 +3210,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.791364"
+            timestampString = "559645705.58838"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1239"
-            endingLineNumber = "1239"
+            startingLineNumber = "1240"
+            endingLineNumber = "1240"
             landmarkName = "-agreeBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3226,11 +3226,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.791435"
+            timestampString = "559645705.589125"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1302"
-            endingLineNumber = "1302"
+            startingLineNumber = "1303"
+            endingLineNumber = "1303"
             landmarkName = "-showALertView"
             landmarkType = "7">
          </BreakpointContent>
@@ -3380,11 +3380,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.780854"
+            timestampString = "559645705.590281"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "-viewDidLoad"
             landmarkType = "7">
          </BreakpointContent>
@@ -3396,11 +3396,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.781018"
+            timestampString = "559645705.590403"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
             landmarkName = "-viewWillAppear:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3412,23 +3412,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.792044"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
-            landmarkName = "-makeRequestForUserRegister"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.79211"
+            timestampString = "559645705.590577"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "196"
@@ -3444,11 +3428,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.792191"
+            timestampString = "559645705.5907151"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "211"
-            endingLineNumber = "211"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "-makeRequestForUserRegister"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
+            timestampString = "559645705.590849"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
             landmarkName = "-makeRequestForUserRegister"
             landmarkType = "7">
          </BreakpointContent>
@@ -3476,11 +3476,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.7923141"
+            timestampString = "559645705.591042"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "368"
-            endingLineNumber = "368"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
             landmarkName = "-clickHereBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3492,11 +3492,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.792379"
+            timestampString = "559645705.5911649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "371"
-            endingLineNumber = "371"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
             landmarkName = "-clickHereBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3539,13 +3539,13 @@
                   symbolName = "__54-[SmartRxMessageViewController makeRequestForMessages]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.606066"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.619056"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "284"
                   endingLineNumber = "284"
-                  offsetFromSymbolStart = "484">
+                  offsetFromSymbolStart = "460">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3554,13 +3554,13 @@
                   symbolName = "__54-[SmartRxMessageViewController makeRequestForMessages]_block_invoke_2"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.609766"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.621814"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "285"
                   endingLineNumber = "285"
-                  offsetFromSymbolStart = "24">
+                  offsetFromSymbolStart = "8">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3569,8 +3569,8 @@
                   symbolName = "__destroy_helper_block_"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.613996"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.624495"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "284"
@@ -3619,11 +3619,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.79267"
+            timestampString = "559645705.591499"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "603"
-            endingLineNumber = "603"
+            startingLineNumber = "604"
+            endingLineNumber = "604"
             landmarkName = "-makeRequestToGetAggrementData"
             landmarkType = "7">
          </BreakpointContent>
@@ -3635,11 +3635,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.7927459"
+            timestampString = "559645705.592001"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "641"
-            endingLineNumber = "641"
+            startingLineNumber = "642"
+            endingLineNumber = "642"
             landmarkName = "-showTermsOfUse"
             landmarkType = "7">
          </BreakpointContent>
@@ -3651,11 +3651,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.792827"
+            timestampString = "559645705.5924931"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "655"
-            endingLineNumber = "655"
+            startingLineNumber = "656"
+            endingLineNumber = "656"
             landmarkName = "-makeRequestForUserAggrement"
             landmarkType = "7">
          </BreakpointContent>
@@ -3667,11 +3667,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.792924"
+            timestampString = "559645705.593013"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "919"
-            endingLineNumber = "919"
+            startingLineNumber = "920"
+            endingLineNumber = "920"
             landmarkName = "-makeRequestToLogout"
             landmarkType = "7">
          </BreakpointContent>
@@ -3778,13 +3778,13 @@
                   symbolName = "-[SmartRxGetCarePlanVC makeRequestToGetTopTen]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
-                  timestampString = "557229533.792752"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
+                  timestampString = "559030446.6838109"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "596"
                   endingLineNumber = "596"
-                  offsetFromSymbolStart = "372">
+                  offsetFromSymbolStart = "370">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3793,13 +3793,13 @@
                   symbolName = "__46-[SmartRxGetCarePlanVC makeRequestToGetTopTen]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
-                  timestampString = "557229533.796347"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
+                  timestampString = "559030446.686584"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "597"
                   endingLineNumber = "597"
-                  offsetFromSymbolStart = "40">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3808,8 +3808,8 @@
                   symbolName = "__destroy_helper_block_.498"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
-                  timestampString = "557229533.7998151"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/CarePlans/SmartRxGetCarePlanVC.m"
+                  timestampString = "559030446.689271"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "596"
@@ -3874,11 +3874,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.785489"
+            timestampString = "559645705.594119"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "395"
-            endingLineNumber = "395"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
             landmarkName = "-registerBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3970,11 +3970,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.793852"
+            timestampString = "559645705.594713"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "176"
-            endingLineNumber = "176"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
             landmarkName = "-makeRequestForUserRegister"
             landmarkType = "7">
          </BreakpointContent>
@@ -4001,13 +4001,13 @@
                   symbolName = "-[SmartRxMessageViewController makeRequestForMessages]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.892952"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.743968"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "266"
                   endingLineNumber = "266"
-                  offsetFromSymbolStart = "268">
+                  offsetFromSymbolStart = "264">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4016,13 +4016,13 @@
                   symbolName = "__54-[SmartRxMessageViewController makeRequestForMessages]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.895938"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.7469"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "267"
                   endingLineNumber = "267"
-                  offsetFromSymbolStart = "40">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4031,8 +4031,8 @@
                   symbolName = "__destroy_helper_block_.246"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
-                  timestampString = "557229533.898638"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Messages/SmartRxMessageViewController.m"
+                  timestampString = "559030446.7496279"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "266"
@@ -4144,13 +4144,13 @@
                   symbolName = "-[SmartRxMyLocationVC makeRequestForDeleteLocation]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
-                  timestampString = "557229534.023384"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
+                  timestampString = "559030446.779187"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "184"
                   endingLineNumber = "184"
-                  offsetFromSymbolStart = "732">
+                  offsetFromSymbolStart = "710">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4159,13 +4159,13 @@
                   symbolName = "__51-[SmartRxMyLocationVC makeRequestForDeleteLocation]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
-                  timestampString = "557229534.02621"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
+                  timestampString = "559030446.782092"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "186"
                   endingLineNumber = "186"
-                  offsetFromSymbolStart = "32">
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4174,13 +4174,13 @@
                   symbolName = "__destroy_helper_block_.239"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
-                  timestampString = "557229534.029055"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/SmartRxMyLocationVC.m"
+                  timestampString = "559030446.7848181"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "184"
                   endingLineNumber = "184"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -4656,11 +4656,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.789497"
+            timestampString = "559645705.596964"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
             landmarkName = "-makeLoginRequest:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4831,13 +4831,13 @@
                   symbolName = "-[SmartRxeConsultVC makeRequestForeConsult]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229534.450922"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030446.9655451"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "287"
                   endingLineNumber = "287"
-                  offsetFromSymbolStart = "476">
+                  offsetFromSymbolStart = "470">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4846,13 +4846,13 @@
                   symbolName = "__43-[SmartRxeConsultVC makeRequestForeConsult]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229534.4570971"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030446.968264"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "288"
                   endingLineNumber = "288"
-                  offsetFromSymbolStart = "40">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4861,8 +4861,8 @@
                   symbolName = "__destroy_helper_block_.244"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229534.460893"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030446.970912"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "287"
@@ -4958,13 +4958,13 @@
                   symbolName = "-[SmartRxSelectDocLocation makeRequestForDocAndSpecialities:]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
-                  timestampString = "557229534.562481"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
+                  timestampString = "559030446.9960949"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "426"
                   endingLineNumber = "426"
-                  offsetFromSymbolStart = "460">
+                  offsetFromSymbolStart = "442">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4973,13 +4973,13 @@
                   symbolName = "__61-[SmartRxSelectDocLocation makeRequestForDocAndSpecialities:]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
-                  timestampString = "557229534.566462"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
+                  timestampString = "559030446.998822"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "427"
                   endingLineNumber = "427"
-                  offsetFromSymbolStart = "32">
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -4988,13 +4988,13 @@
                   symbolName = "__destroy_helper_block_.370"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
-                  timestampString = "557229534.570558"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Hospital%20Info/Find%20Doctors/SmartRxSelectDocLocation.m"
+                  timestampString = "559030447.003859"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "426"
                   endingLineNumber = "426"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -5054,23 +5054,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.7966551"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1022"
-            endingLineNumber = "1022"
-            landmarkName = "-appointmentsBtnClicked:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.796716"
+            timestampString = "559645705.598146"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1023"
@@ -5086,11 +5070,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.796804"
+            timestampString = "559645705.598698"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1019"
-            endingLineNumber = "1019"
+            startingLineNumber = "1024"
+            endingLineNumber = "1024"
+            landmarkName = "-appointmentsBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
+            timestampString = "559645705.599205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1020"
+            endingLineNumber = "1020"
             landmarkName = "-appointmentsBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5326,11 +5326,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.79756"
+            timestampString = "559645705.60045"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
             landmarkName = "-validateBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5614,7 +5614,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Common Class/SmartRxCommonClass.m"
-            timestampString = "553602066.404441"
+            timestampString = "559645705.6019731"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "246"
@@ -5710,11 +5710,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.798848"
+            timestampString = "559645705.602726"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "710"
-            endingLineNumber = "710"
+            startingLineNumber = "711"
+            endingLineNumber = "711"
             landmarkName = "-makeRequestForNumberOfMessages"
             landmarkType = "7">
          </BreakpointContent>
@@ -5758,7 +5758,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Common Class/SmartRxCommonClass.m"
-            timestampString = "553602066.404626"
+            timestampString = "559645705.603938"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "236"
@@ -5901,13 +5901,13 @@
                   symbolName = "-[SmartRxBookServicesController tableView:willDisplayCell:forRowAtIndexPath:]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/Services/SmartRxBookServicesController.m"
-                  timestampString = "557229535.021826"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/Services/SmartRxBookServicesController.m"
+                  timestampString = "559030447.271492"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "413"
-                  endingLineNumber = "413"
-                  offsetFromSymbolStart = "152">
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
+                  offsetFromSymbolStart = "140">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -5916,12 +5916,12 @@
                   symbolName = "__destroy_helper_block_.404"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/Services/SmartRxBookServicesController.m"
-                  timestampString = "557229535.024911"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/Services/SmartRxBookServicesController.m"
+                  timestampString = "559030447.274164"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "413"
-                  endingLineNumber = "413"
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
                   offsetFromSymbolStart = "0">
                </Location>
             </Locations>
@@ -6045,13 +6045,13 @@
                   symbolName = "__43-[SmartRxeConsultVC makeRequestForeConsult]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229535.084275"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030447.307969"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "296"
                   endingLineNumber = "296"
-                  offsetFromSymbolStart = "172">
+                  offsetFromSymbolStart = "136">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -6060,13 +6060,13 @@
                   symbolName = "__43-[SmartRxeConsultVC makeRequestForeConsult]_block_invoke_2"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229535.0875061"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030447.310631"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "297"
                   endingLineNumber = "297"
-                  offsetFromSymbolStart = "40">
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -6075,13 +6075,13 @@
                   symbolName = "__destroy_helper_block_.241"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
-                  timestampString = "557229535.09066"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Connect/eConsult/SmartRxeConsultVC.m"
+                  timestampString = "559030447.314168"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "296"
                   endingLineNumber = "296"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -6685,11 +6685,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.80154"
+            timestampString = "559645705.6073149"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "714"
-            endingLineNumber = "714"
+            startingLineNumber = "715"
+            endingLineNumber = "715"
             landmarkName = "-makeRequestForNumberOfMessages"
             landmarkType = "7">
          </BreakpointContent>
@@ -6701,7 +6701,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Common Class/SmartRxCommonClass.m"
-            timestampString = "553602066.405884"
+            timestampString = "559645705.607936"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "239"
@@ -6765,7 +6765,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Common Class/SmartRxCommonClass.m"
-            timestampString = "553602066.4059891"
+            timestampString = "559645705.6082309"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
@@ -7036,13 +7036,13 @@
                   symbolName = "-[SmartRxReportImageVC viewDidLoad]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
-                  timestampString = "557229535.488993"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
+                  timestampString = "559030447.60864"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
                   endingLineNumber = "57"
-                  offsetFromSymbolStart = "1080">
+                  offsetFromSymbolStart = "1082">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7051,13 +7051,13 @@
                   symbolName = "__35-[SmartRxReportImageVC viewDidLoad]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
-                  timestampString = "557229535.492125"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
+                  timestampString = "559030447.6122839"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
                   endingLineNumber = "58"
-                  offsetFromSymbolStart = "36">
+                  offsetFromSymbolStart = "18">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7066,8 +7066,8 @@
                   symbolName = "__destroy_helper_block_"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
-                  timestampString = "557229535.495461"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxReportImageVC.m"
+                  timestampString = "559030447.6154391"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -7308,11 +7308,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/Registration/SmartRxValidRegisterVC.m"
-            timestampString = "558857962.803331"
+            timestampString = "559645705.610031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "-viewWillAppear:"
             landmarkType = "7">
          </BreakpointContent>
@@ -7947,13 +7947,13 @@
                   symbolName = "-[SmartRxRecordsVC tableView:cellForRowAtIndexPath:]"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
-                  timestampString = "557229536.455642"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
+                  timestampString = "559030459.728537"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "380"
                   endingLineNumber = "380"
-                  offsetFromSymbolStart = "976">
+                  offsetFromSymbolStart = "878">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7962,13 +7962,13 @@
                   symbolName = "__52-[SmartRxRecordsVC tableView:cellForRowAtIndexPath:]_block_invoke"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
-                  timestampString = "557229536.458321"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
+                  timestampString = "559030459.7336071"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "383"
                   endingLineNumber = "383"
-                  offsetFromSymbolStart = "48">
+                  offsetFromSymbolStart = "30">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7977,8 +7977,8 @@
                   symbolName = "__destroy_helper_block_.384"
                   moduleName = "SmartRx"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/SmartRx/Downloads/Ios_Patient_September/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
-                  timestampString = "557229536.46099"
+                  urlString = "file:///Users/SmartRx/RxDx-New-Ios/SmartRx/VeiwControllers/Records/SmartRxRecordsVC.m"
+                  timestampString = "559030459.737396"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "380"
@@ -8411,11 +8411,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.81566"
+            timestampString = "559645705.613611"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "236"
-            endingLineNumber = "236"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
             landmarkName = "-makeLoginRequest:"
             landmarkType = "7">
          </BreakpointContent>
@@ -8955,11 +8955,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.817836"
+            timestampString = "559645705.616243"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "185"
-            endingLineNumber = "185"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
             landmarkName = "-makeLoginRequest:"
             landmarkType = "7">
          </BreakpointContent>
@@ -8971,11 +8971,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.817938"
+            timestampString = "559645705.616433"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "187"
-            endingLineNumber = "187"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
             landmarkName = "-makeLoginRequest:"
             landmarkType = "7">
          </BreakpointContent>
@@ -8987,11 +8987,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/LoginView/SmartRxLoginViewController.m"
-            timestampString = "557149280.818089"
+            timestampString = "559645705.616614"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "165"
-            endingLineNumber = "165"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "-makeLoginRequest:"
             landmarkType = "7">
          </BreakpointContent>
@@ -9019,11 +9019,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.808479"
+            timestampString = "559645705.616851"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1062"
-            endingLineNumber = "1062"
+            startingLineNumber = "1063"
+            endingLineNumber = "1063"
             landmarkName = "-messagesBtnClicked:"
             landmarkType = "7">
          </BreakpointContent>
@@ -9131,11 +9131,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmartRx/VeiwControllers/DashBoard/SmartRxDashBoardVC.m"
-            timestampString = "558857962.808831"
+            timestampString = "559645705.617993"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
             landmarkName = "-viewWillAppear:"
             landmarkType = "7">
          </BreakpointContent>
